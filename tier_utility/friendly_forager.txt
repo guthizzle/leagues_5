@@ -1,0 +1,61 @@
+Really not interested in factoring every possible permutation of regions so calcing no relic xp/hr as main game iron ehp
+
+TODO: comparison between no relic and relic
+
+No relic xp:
+    71.5k/hr
+
+
+relic calcs:
+    all herbs are assumed 0 time, forcing your highest potion available
+    Manual speed of unfs:
+        5k/hr
+    Base:
+        Sara brew:
+            180 xp
+            2500 per/hr
+        Secondary/hr:
+            450
+            450 / (1/10) = 4500/hr
+            banked:
+                4500 * 180 = 810k/hr
+        xp per hour:
+            5k/hr
+            4.5k nests/hr
+            5k/4.5k = 1.111 # banking pots
+            2.5k pots/hr
+            total time = 2 + 1 + 1.111 = 4.111
+            totalxp = 5k * 180 = 900k
+            eXP/hr = 900k / 4.111 = 218.9k xp/hr
+
+    Desert:
+        Sara brew:
+            180 xp
+            2500 per/hr
+        Secondary/hr:
+            450
+            450 / (1/10) = 4500/hr
+            banked:
+                4500 * 180 = 810k/hr
+        xp per hour:
+            pots/hr = 2.5k
+            banked/hr = 4.5k
+            2.5k/4.5k = 0.55555555555
+            total time for 2.5k = 1.555555555
+            xp for 2.5k = 450k
+            289k/hr
+    Varlamore:
+        0 time 2nd with goggles, can use menaphite remedies or ancient brews for more xp/hr
+        Sara brew:
+            180 xp
+            2500 per/hr
+        xp per hour:
+            5k unf/hr
+            2.5k pots/hr
+            total time = 1+2 = 3
+            total xp = 900k
+            900k / 3hr = 300k/hr
+
+
+
+conclusion:
