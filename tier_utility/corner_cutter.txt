@@ -1,0 +1,71 @@
+Multipliers applied at the end in the conclusion.
+Assumes max xp rates for region exclusively for working out time to 50m xp
+Assume 45m, we'll be 16x there and should have most max rates unlocked.
+
+TLDR THIS RELIC PROBABLY BEST BUT TAKE HERB RELIC ANYWAY LOL
+
+==================
+No relic xp rates per region
+    Base:
+        67k/hr
+    Asgarnia:
+        35k/hr
+    Desert:
+        60k/hr
+    Fremennik:
+        65k/hr
+    Kandarin:
+        70k/hr
+    Morytania:
+        90k/hr
+    Tiranwnn:
+        65k/hr
+    Wilderness:
+        60k/hr
+    Zeah:
+        30k/hr
+    Varlamore:
+        42k/hr
+==================
+
+
+==================
+Relic xp
+    All regions:
+        Theoretically 0 time
+==================
+
+==================
+Calculations
+
+    xp required:
+        45m
+    Multiplier: 
+        16x
+    Hours saved:
+        Base:
+            45*10^6 / (67*10^3*16) =        41.9776119403
+        Asgarnia:
+            45*10^6 / (35*10^3*16) =        80.3571428571
+        Desert:
+            45*10^6 / (60*10^3*16) =        46.875
+        Fremennik:
+            45*10^6 / (65*10^3*16) =        43.2692307692
+        Kandarin:
+            45*10^6 / (70*10^3*16) =        40.1785714286
+        Morytania:
+            45*10^6 / (90*10^3*16) =        31.25
+        Tiranwnn:
+            45*10^6 / (65*10^3*16) =        43.2692307692
+        Wilderness:
+            45*10^6 / (60*10^3*16) =        46.875
+        Zeah:
+            45*10^6 / (30*10^3*16) =        93.75
+        Varlamore:
+            45*10^6 / (42*10^3*16) =        66.9642857143
+==================
+
+==================
+Conclusion
+    Simple conclusion is check the time save in your specific areas.
+==================
